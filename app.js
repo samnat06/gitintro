@@ -3,3 +3,4 @@
 // this is to create the logic for feature1"
 // this is to create the logic for feature1"
 // added js update for app.js
+// added feature3
